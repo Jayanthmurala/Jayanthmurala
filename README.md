@@ -203,25 +203,26 @@ AI & Automation
 <!-- Animated Section Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 <br/>
+
 📊 GITHUB.ANALYTICS
 <div align="center">
 
-<!-- ===================== ROW 1 ===================== -->
+<!-- ===================== NEON ROW 1 ===================== -->
 <table width="100%">
 <tr>
 
 <td width="50%" align="center">
-<img 
+<img
   src="https://github-readme-stats.vercel.app/api?username=Jayanthmurala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41"
-  width="95%"
+  width="96%"
 />
 </td>
 
 <td width="50%" align="center">
-<!-- Auto-updated GitHub Metrics (Commits, PRs, Stars, Achievements) -->
-<img 
+<!-- Neon GitHub Metrics -->
+<img
   src="https://raw.githubusercontent.com/Jayanthmurala/Jayanthmurala/main/github-metrics.svg"
-  width="95%"
+  width="96%"
 />
 </td>
 
@@ -230,22 +231,21 @@ AI & Automation
 
 <br/>
 
-<!-- ===================== ROW 2 ===================== -->
+<!-- ===================== NEON ROW 2 ===================== -->
 <table width="100%">
 <tr>
 
 <td width="50%" align="center">
-<img 
+<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthmurala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41"
-  width="95%"
+  width="96%"
 />
 </td>
 
 <td width="50%" align="center">
-<!-- Contribution Graph (Animated Feel) -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&title_color=00FF41&custom_title=Contribution%20Activity"
-  width="95%"
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&title_color=00FF41&custom_title=Neon%20Contribution%20Flow"
+  width="96%"
 />
 </td>
 
@@ -254,17 +254,13 @@ AI & Automation
 
 </div>
 
-<!-- ===================== ANIMATED DIVIDER ===================== -->
-<img 
+<!-- ===================== NEON DIVIDER ===================== -->
+<img
   src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
   width="100%"
 />
 
 <br/><br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 
 ## 🚀 FEATURED.PROJECT
