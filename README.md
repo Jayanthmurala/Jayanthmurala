@@ -36,7 +36,7 @@
 <h2>💻 SYSTEM.INFO</h2>
 
 <b>ROLE:</b> Full-Stack Engineer & AI Architect<br/>
-<b>LOCATION:</b> Vijayawada, India 🇮🇳<br/>
+<b>LOCATION:</b> Machilipatnam, India 🇮🇳<br/>
 <b>EDUCATION:</b> B.Tech ECE – Vishnu Institute of Technology<br/>
 <b>CGPA:</b> 8.0 / 10.0 • <b>GRAD:</b> 2026<br/>
 <b>STATUS:</b> <code>AVAILABLE FOR OPPORTUNITIES</code>
@@ -79,7 +79,6 @@ Network: Technical Communities
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
-
 <!-- ================= GITHUB ANALYTICS ================= -->
 <h2 align="center">📊 GITHUB.ANALYTICS</h2>
 
@@ -107,7 +106,7 @@ Network: Technical Communities
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ---
 
