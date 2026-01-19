@@ -203,46 +203,66 @@ AI & Automation
 <!-- Animated Section Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 <br/>
-
 📊 GITHUB.ANALYTICS
 <div align="center">
 
-<table>
+<!-- ===================== ROW 1 ===================== -->
+<table width="100%">
 <tr>
+
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jayanthmurala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" width="100%"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Jayanthmurala&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41"
+  width="95%"
+/>
 </td>
 
 <td width="50%" align="center">
-<!-- REAL CONTRIBUTION STATS (Auto Updated) -->
-<img src="https://raw.githubusercontent.com/Jayanthmurala/Jayanthmurala/main/github-metrics.svg" width="100%"/>
+<!-- Auto-updated GitHub Metrics (Commits, PRs, Stars, Achievements) -->
+<img 
+  src="https://raw.githubusercontent.com/Jayanthmurala/Jayanthmurala/main/github-metrics.svg"
+  width="95%"
+/>
 </td>
+
 </tr>
 </table>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthmurala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" width="100%"/>
-</td>
-
-<td width="50%" align="center">
-<!-- REAL ACHIEVEMENTS (Auto Updated) -->
-<img src="https://raw.githubusercontent.com/Jayanthmurala/Jayanthmurala/main/metrics.plugin.achievements.svg" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&title_color=00FF41&custom_title=Contribution%20Activity" width="98%"/>
-
-</div>
-
-<!-- Animated Section Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-<table>
+<!-- ===================== ROW 2 ===================== -->
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanthmurala&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41"
+  width="95%"
+/>
+</td>
+
+<td width="50%" align="center">
+<!-- Contribution Graph (Animated Feel) -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanthmurala&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41&title_color=00FF41&custom_title=Contribution%20Activity"
+  width="95%"
+/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+<img 
+  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+  width="100%"
+/>
+
+<br/><br/>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
